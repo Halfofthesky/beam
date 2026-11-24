@@ -4,6 +4,9 @@
 
 A Claude skill that maps what each source is *doing* in a text, and shows which jobs nobody is doing.
 
+<img width="750" height="409" alt="beam_card_overprint_1600x900" src="https://github.com/user-attachments/assets/7ff55e94-4b51-44da-8273-6baf257b7091" />
+
+
 ## Why
 
 Most source checks ask whether a source is reliable or a claim is true. BEAM asks a different question: what is this source doing here, and is it fit for that job?
