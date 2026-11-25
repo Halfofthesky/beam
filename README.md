@@ -80,9 +80,10 @@ Roles, profiles and flags F1, F2, F5 and F6 follow Bizup. F3 and F4 are extensio
 
 ## See also
 
-- [Concept Check](https://github.com/Halfofthesky/concept-check): a skill that tests whether a concept earns its place in your argument.
-- [Logic & Reasoning Skills](https://github.com/Halfofthesky/logic-reasoning-skills): three skills for analysing arguments: reconstructing them, spotting fallacies, and solving formal logic problems.
-- [Adversarial Editorial Review](https://github.com/Halfofthesky/adversarial-editorial-review): three independent reviewers and an editorial synthesis for humanities manuscripts.
+- [Concept Check](https://github.com/Halfofthesky/concept-check): tests whether a concept earns its place.
+- [Evidence Tests](https://github.com/Halfofthesky/evidence-tests): weighs the evidence for causal claims against rival explanations.
+- [Logic & Reasoning Skills](https://github.com/Halfofthesky/logic-reasoning-skills): reconstructs arguments, spots fallacies, solves formal logic.
+- [Adversarial Editorial Review](https://github.com/Halfofthesky/adversarial-editorial-review): three reviewers and an editorial synthesis for humanities manuscripts.
 
 ## License
 
