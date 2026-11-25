@@ -78,6 +78,12 @@ Joseph Bizup, "BEAM: A Rhetorical Vocabulary for Teaching Research-Based Writing
 
 Roles, profiles and flags F1, F2, F5 and F6 follow Bizup. F3 and F4 are extensions. The skill is not affiliated with the author.
 
+## See also
+
+- [Concept Check](https://github.com/Halfofthesky/concept-check): a skill that tests whether a concept earns its place in your argument.
+- [Logic & Reasoning Skills](https://github.com/Halfofthesky/logic-reasoning-skills): three skills for analysing arguments: reconstructing them, spotting fallacies, and solving formal logic problems.
+- [Adversarial Editorial Review](https://github.com/Halfofthesky/adversarial-editorial-review): three independent reviewers and an editorial synthesis for humanities manuscripts.
+
 ## License
 
 MIT
